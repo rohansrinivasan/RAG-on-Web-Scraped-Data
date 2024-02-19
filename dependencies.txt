@@ -1,0 +1,7 @@
+bs4 
+openai 
+langchain-community 
+chromadb 
+tiktoken 
+unstructured
+install flask-sqlalchemy
