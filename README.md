@@ -10,6 +10,10 @@ A Python Script which utilises Langchain and GPT3.5 Model from OpenAI as the LLM
 ### To Install Dependencies
 ``` pip install -r /dependencies.txt ```
 
+### How to Execute
+For output please include the prompt/question you want in the python3 executing termincal command
+``` python3 Canoo_GPT.py "<Your query related to Canoo>" ```
+
 ## Example Output
 ### Terminal Code with Input Prompt
 ![Screenshot 2024-02-19 at 2 20 49 PM](https://github.com/rohansrinivasan/RAG-on-Web-Scraped-Data/assets/102278418/5301154d-98e6-4c6c-9400-1a63bc0cace7)
